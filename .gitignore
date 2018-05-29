@@ -1,3 +1,8 @@
 micronaut-tutorials.iml
 .idea/
 .gradle/
+out/
+*/out/
+*.iws
+*.ipr
+*.iml
